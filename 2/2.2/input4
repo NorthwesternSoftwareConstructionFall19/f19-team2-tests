@@ -1,10 +1,18 @@
-"a bc"
+"abc"
 
-"ab c"
+"bacd"
+
+"abcd"
+
+"northwestern"
 
 "cat in the hat"
 
+"go cats"
+
 0
+
+1
 
 -50
 
@@ -16,10 +24,19 @@
 "44"}}
 }
 
+{"name": 2}
+
+-55
+
 {"name": 
 
 
 -50}
+
+{"name": "name": 
+88}
+
+"-45"
 
 {"name":
 {
@@ -30,3 +47,31 @@
 }}
 
 500
+
+5000
+
+393
+
+"393"
+
+"393 \n 393"
+
+800
+
+{
+    "name": {"name":
+    "393"
+    }
+}
+
+"thanks"
+
+"no problem"
+
+26
+
+-26
+
+"kevin"
+
+"patricia"
