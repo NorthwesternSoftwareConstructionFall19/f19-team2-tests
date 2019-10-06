@@ -2,10 +2,7 @@
 
 "ab c"
 
-"cat 
-in
-the
-hat"
+"cat in the hat"
 
 0
 
@@ -26,13 +23,10 @@ hat"
 
 {"name":
 {
-"name":
-{ 
-"name":
-
-
-"cat in the hat"
-}
+    "name": 
+    {
+        "name": "cat in the hat"
+    } 
 }}
 
 500
